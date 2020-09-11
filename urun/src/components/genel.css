@@ -1,0 +1,340 @@
+.baslik
+{
+    font-family: "Times New Roman";
+    letter-spacing: 5px;
+    font-size: 50px;
+    font-weight: 50;
+}
+#yemek1{
+    font-family: "Times New Roman";
+    letter-spacing: 5px;
+    font-size: 50px;
+    font-weight: 50;
+    position: absolute ;
+    top: 300px;
+    left:270px;
+    color: whitesmoke;
+    font-size: 50px;
+    font-weight: 50;
+}
+
+#yemek2 
+{
+    font-family: "Times New Roman";
+    letter-spacing: 5px;
+    font-size: 50px;
+    font-weight: 50;
+    position: absolute ;
+    top: 300px;
+    left:650px;
+    color: whitesmoke;
+    font-size: 50px;
+    font-weight: 50;
+}
+#yemek3
+{
+    font-family: "Times New Roman";
+    letter-spacing: 5px;
+    font-size: 50px;
+    font-weight: 50;
+    position: absolute ;
+    top: 300px;
+    left:1000px;
+    color: whitesmoke;
+    font-size: 50px;
+    font-weight: 50;
+}
+#yemek3 button{
+    position: absolute ;
+    top: 70px;
+    left:120px;
+    
+
+}
+
+#yemek2 button{
+    position: absolute ;
+    top: 70px;
+    left:50px;
+    
+
+}
+#yemek1 button{
+    position: absolute ;
+    top: 70px;
+    left:30px;
+    
+
+}
+.geri
+{
+    position: absolute ;
+    top: 70px;
+    left:290px;
+}
+.geri i{    
+    position: absolute ;
+    right: 120px;
+
+}
+#urun img{
+    width: 400px;
+    height: 391px;
+
+}
+
+/* #img1:hover {
+    transform: rotate(360deg) scale(.8);
+    -webkit-transform: rotate(360deg) scale(.8);
+}
+#img1
+{
+    width: 680px;
+    height: 555px;
+    
+    
+}
+#img2
+{
+    width: 50px;
+    height: 50px;
+    
+    
+}
+#img3
+{
+    width: 50px;
+    height: 50px;
+    
+    
+}
+#img4
+{
+    height: 400px;
+    width:400px;
+    position: absolute;
+    left: 50px;
+    float: left;
+    
+} */
+
+#img1 
+{
+    display: inline-block;
+    width: 450px;
+    height: 300px;
+   
+}
+ /* #img1:hover  {
+     transform: rotate(360deg) scale(.9);
+    -webkit-transform: rotate(360deg) scale(.9);
+  
+    
+   
+} */
+#img2:hover {
+    transform: rotate(360deg) scale(.9);
+    -webkit-transform: rotate(360deg) scale(.9);
+    
+   
+}
+#img3:hover {
+    transform: rotate(360deg) scale(.9);
+    -webkit-transform: rotate(360deg) scale(.9);
+   
+   
+}
+#img2
+{
+    width: 350px;
+    height: 300px;
+    margin-top: 10px;
+    margin-bottom: 365px;
+
+      margin-left:10px;
+      margin-right: 20px;
+}
+#img3
+{
+    width: 350px;
+    height: 300px;
+    margin-top: 10px;
+    margin-bottom: 365px;
+
+      margin-left:10px;
+      margin-right:600px;
+}
+.coklu{
+    position: relative;
+    width: 100%;
+    max-width: 400px;
+    
+}
+
+.image{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.overlay{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .3s ease;
+}
+
+.coklu:hover .overlay{
+    opacity: 1;
+}
+
+#icon{
+    color: black;
+    font-size: 50px;
+    position: inherit;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    display: inline-block;
+}
+ p.aciklama1{
+      border: inset;
+      margin-left: -300px;
+        
+    
+        
+        
+  }
+  .pilav{
+    width: 336px;
+    height:313px;
+    margin-top: 100px;
+    margin-bottom: 10px;
+    margin-right: 110px; 
+    /* border-radius: 150px;
+
+-webkit-border-radius: 150px;
+
+-moz-border-radius: 150px; yuvarlak yapıyor */
+border-radius: 10px 10px 10px 10px; 
+    
+  }
+  .hk
+  {
+    width: 736px;
+    height:513px;
+    border-radius: 10px 10px 10px 10px; 
+  }
+  .örnek
+  {
+      margin-top:10px;
+      width:500px;
+      height: 300px;
+  }
+.mal{
+    font-family: "Times New Roman";
+    letter-spacing: 5px;
+    font-size: 50px;
+    position: absolute ;
+    top: 550px;
+    left:400px;
+    
+}
+.md{
+    font-family: "Times New Roman";
+    position: absolute ;
+    top: 620px;
+    left:620px;
+    
+}
+
+.yap
+{
+    font-family: "Times New Roman";
+    letter-spacing: 5px;
+    font-size: 50px;
+    position: absolute ;
+    top: 850px;
+    left:450px;
+}
+.md1{
+    font-family: "Times New Roman";
+    position: absolute ;
+    top: 920px;
+    left:350px;
+}
+#shopB
+{
+    position: fixed ;
+    top: 170px;
+    right:320px;
+}
+#pro
+{
+    position: fixed;
+    top: 170px;
+    right: 120px;
+}
+#or
+{
+    margin-top:200px;
+}
+#aa
+{
+    margin-top:250px;
+}
+#aa1 label
+{
+    color: black;
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: -100px; 
+}
+#aa1 input
+{
+    width: 400px;
+}
+#msg1 input
+{
+    width: 400px;
+    height:200px;
+}
+#msg1 label
+{
+    color: black;
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: -45px;
+  
+}
+#msg1B
+{
+    margin-right: -220px;
+}
+#msg2 input{
+    width: 400px;
+    height:50px;
+}
+#msg2 label
+{
+    color:black;
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: -45px;
+}
+#orSon
+{
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+.ui.icon:hover .icon  {
+   display: inline;
+}
