@@ -8,7 +8,7 @@ you can send message from contact page. We wish safe shopping .....*
 
 **INSTALLATION** 
 
-npm install react-scripts
+npm install react-scripts<br/>
 npm install react-router-dom
 
 **OVERVİEW**
