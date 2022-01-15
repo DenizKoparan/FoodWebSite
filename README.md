@@ -3,7 +3,7 @@ I used semantic-ui's library for menu. Then I created in order blog page, portfo
 There are various products in portfolio. If you will choose any product, you can see recipe of product that you chose.
 if you want to learn something about the website , you can get information from about page. 
 You can share your comments about the page with customers from the blog page. If you want to send message to us, 
-you can send message from contact page. We wish safe shopping .....*
+you can send message from contact page. We wish safe shopping ......*
 
 
 **INSTALLATION** 
@@ -18,3 +18,4 @@ npm install react-router-dom
 ![picture](overview/aboutPage.png)
 ![picture](overview/myblogPage.png)
 ![picture](overview/recipePage.png)
+
